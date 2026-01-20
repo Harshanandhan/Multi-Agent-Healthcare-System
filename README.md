@@ -405,9 +405,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Your Name**
-- Email: your.harshanandhanreddy820@gmail.com
+- Email: harshanandhanreddy820@gmail.com
 - LinkedIn: https://www.linkedin.com/in/harshanandhan-reddy-gajulapalli-91a951395/
-- GitHub: [@yourusername](https://github.com/Harshanandhan)
+- GitHub: (https://github.com/Harshanandhan)
 
 ## 🙏 Acknowledgments
 
