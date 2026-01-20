@@ -401,20 +401,13 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Disclaimer
-
-**IMPORTANT MEDICAL DISCLAIMER**
-
-This system is for **educational and demonstration purposes only**. It is NOT intended for actual medical use and is NOT a substitute for professional medical advice, diagnosis, or treatment.
-
-Never use this system for actual medical decision-making. Always seek the advice of qualified healthcare providers.
 
 ## 📧 Contact
 
 **Your Name**
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: your.harshanandhanreddy820@gmail.com
+- LinkedIn: https://www.linkedin.com/in/harshanandhan-reddy-gajulapalli-91a951395/
+- GitHub: [@yourusername](https://github.com/Harshanandhan)
 
 ## 🙏 Acknowledgments
 
